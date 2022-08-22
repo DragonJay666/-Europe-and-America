@@ -1,0 +1,76 @@
+.md .frame-wrap
+  position: relative
+  overflow: hidden
+  margin: 0 auto
+  max-width: 100%
+  display: flex
+  flex-direction: column
+  align-items: center
+  img,video
+    border-radius: 0
+.md .frame-wrap .frame
+  z-index: 1
+  display: block
+  position: absolute;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+
+.md .img-wrap .frame-wrap
+  &[part]
+    height: auto
+
+.md .frame-wrap
+  &#iphone11
+    img,video
+      width: 287px
+      margin-top: 19px
+      margin-bottom: 20px
+    .frame
+      background-image: url(https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@3/img/frame/iphone11.svg);
+      width: 329px
+      height: 658px
+  &[part='top']
+    img,video
+      margin-bottom: 0 !important
+  &:not([part='bottom'])
+    .frame
+      top: 0
+  &[part='bottom']
+    img,video
+      bottom: 0
+      margin-top: 0 !important
+    .frame
+      bottom: 0
+
+&#iphone8SG // iphone8深空灰,这里是对引入的frame命名，一定要改
+    img,video // 这里是对插入的图片或者视频的大小调整
+      width: 188px
+      margin-top: 70px
+      margin-bottom: 70px
+    .frame
+      background-image: url(https://cdn.jsdelivr.net/gh/Goopher97/tuchuang@master/img/Apple%20iPhone%208%20Space%20Grey.png); //这里是我们自己引入的框架图，从图床复制链接过来即可。
+      width: 237.5px // 这里是对我们自己引入的框架的大小进行调整
+      height: 473.5px
+  &[part='top'] // 这里是用作仅显示上半部分，我们不改
+    img,video
+      margin-bottom: 0 !important
+  &:not([part='bottom'])
+    .frame
+      top: 0
+  &[part='bottom'] // 这里是用作显示下半部分，也不改
+    img,video
+      bottom: 0
+      margin-top: 0 !important
+    .frame
+      bottom: 0
+    &#iphone8SG // iphone8深空灰
+      img,video // 移动端 图片或者视频的大小
+        width: 188px
+        margin-top: 70px
+        margin-bottom: 70px
+      .frame // 移动端 框架图的大小
+        width: 237.5px
+        height: 473.5px
+
+    
