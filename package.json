@@ -38,6 +38,6 @@
   },
   "scripts": {
     "dev": "hexo server -p $PORT",
-    "build": "hexo generate",
+    "build": "hexo generate"
   }
 }
