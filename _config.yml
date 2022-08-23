@@ -17,7 +17,7 @@ timezone: 'Asia/Shanghai'
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :lang/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -34,7 +34,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :lang/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
