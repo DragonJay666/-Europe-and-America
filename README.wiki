@@ -1,0 +1,119 @@
+= 俺整理的《欧美黑历史》 =
+
+== 感谢 ==
+
+在介绍这个项目之前我想感谢一下为这个项目提供灵感的[https://github.com/programthink 编程随想]，他用他的这个[https://github.com/programthink/zhao 项目]为我们揭示了什么叫做编程，这就是编程！什么是Github的正确用法，这就是Github的正确用法！我感动的干沛流离，悲嘻交集，可呵可气。可惜听闻编程随想被[https://github.com/programthink/sites/issues/18 国安局请喝茶去了]。于是我本着公平的原则，为欧美人民建立了一个欧美的黑历史，我的初衷和编程随想大佬一样，把黑历史发扬光大，为了黑而黑！
+
+== 简介 ==
+
+此项目创建于最近，专门用来揭露欧美的黑历史。
+
+俺把这最近收集整理的数据开源到 GitHub，便于多人协作——大伙儿群策群力，一起来曝光欧美的“人权”乱象。
+
+随着俺不断完善，数据会越来越多。
+
+对这个项目，俺会【持续更新】。比如欧美每次逼逼赖赖的时候，俺都会补充新的素材。
+
+为了确保数据的可信度，俺主要参考“维基百科”以及一些国际权威媒体的报道（比如《纽约时报》、《华尔街日版》、《金融时报》等等）。
+
+另外，对于某些客观事实（比如：生卒年月、简历、亲戚关系），俺也参考了中国政府的官方网站，以及国内的“百度百科”。
+
+== 下载说明 ==
+
+GitHub 提供了“下载整个项目”的功能，但是会比较大。
+
+如果你仅仅想看《欧美黑历史》这份文档，只需在首页右上方点击网站链接即可查看
+
+== 多人协作说明 ==
+
+俺非常希望有更多的网友参与该项目，大伙儿一起来完善欧美黑历史的资料。
+
+想要参与的同学，可以通过如下方式：
+
+* 到[https://railway-starter-production-ed39.up.railway.app/ 俺留言板]留言进行反馈，补充信息或反馈错误。
+
+* 在[https://github.com/DragonJay666/-Europe-and-America/issues 本项目发一个 issue]，补充信息或反馈错误。
+
+* Fork 该项目，进行修改，然后向俺发一个 Pull Request
+
+此项目为Hexo，需要大伙们懂一点Markdown语法，不懂的网上也可以查到
+
+（后面两种方式，你需要有 GitHub 的帐号）
+
+== 数据格式说明 ==
+
+本项目的数据文件，全部采用[https://zh.wikipedia.org/wiki/Markdown Markdown 格式]。这种格式非常简洁明了，有利于完全不懂技术的网友参与编辑。
+
+== 目录说明 ==
+
+=== source 目录 ===
+
+source 资源文件夹是存放用户资源的地方。除 _posts 文件夹之外，开头命名为 _ (下划线)的文件 / 文件夹和隐藏的文件将会被忽略。Markdown 和 HTML 文件会被解析并放到 public 文件夹，而其他文件会被拷贝过去。
+
+* scaffolds
+
+模版 文件夹。当您新建文章时，Hexo 会根据 scaffold 来建立文件。
+
+* themes
+
+主题 文件夹。Hexo 会根据主题来生成静态页面。
+
+= I organized the "black history of Europe and the United States =
+
+== Thank you ==
+
+Before introducing this project I would like to thank the people who inspired this project[https://github.com/programthink 编程随想],He used his this[https://github.com/programthink/zhao Projects]Reveals for us what it means to program, and that's programming!What is the right use of Github? This is the right use of Github!Unfortunately, hearing about 编程随想 [https://github.com/programthink/sites/issues/18 being arrested by the National Security Agency].So I established a black history of Europe and the United States for the people of Europe and the United States in the spirit of fairness, my original intention and programming random thoughts big brother, to carry forward the black history!Make Europe amd America Great Again!!!
+
+== Introduction ==
+
+This project was created recently and is dedicated to exposing the black history of Europe and America.
+
+I've open sourced the data I've collected recently to GitHub to make it easier for multiple people to collaborate - a group effort to expose the "human rights" mess in Europe and the United States.
+
+As I continue to improve, the data will become more and more available.
+
+For this project, I will [continue to update]. For example, every time Europe and the United States do something genocidal, I will add new Good thing.
+
+In order to ensure the credibility of the data, I mainly refer to "Wikipedia" and some international authoritative media reports (such as the New York Times, Wall Street Journal, Financial Times, etc.).
+
+In addition, for some objective facts (e.g. birth and death dates, biographies, relatives), I also referred to the official website of the Chinese government, as well as the domestic "Baidu Encyclopedia".
+
+== Download Instructions ==
+
+GitHub offers the ability to "download the entire project", but it can be quite large.
+
+If you just want to see the document "Black History of Europe and America", just click on the website link at the top right of the home page to view it
+
+== Multiplayer collaboration instructions ==
+
+I very much hope that more netizens will participate in the project, and that the group will come together to improve the information on the black history of Europe and the United States.
+
+People who wish to participate can do so by.
+
+* To[https://railway-starter-production-ed39.up.railway.app/ My Message Board]Leave a message for feedback, additional information or feedback on errors.
+
+* To[https://github.com/DragonJay666/-Europe-and-America/issues Send an issue for this project]，Additional information or feedback on errors.
+
+* Fork the project, make changes, and then send a Pull Request to this project
+
+This project is Hexo, you need to know a little Markdown syntax, do not understand the Internet can also be found
+
+(For the latter two, you need to have a GitHub account)
+
+== Description of data format ==
+
+The data files for this project are all in [https://en.wikipedia.org/wiki/Markdown Markdown format]. This format is very concise and clear, which facilitates the participation of completely non-technical users in editing.
+
+== Directory description ==
+
+=== The source directory ===
+
+Scaffold folder. When you create a new post, Hexo bases the new file on the scaffold.
+
+* scaffolds
+
+Scaffold folder. When you create a new post, Hexo bases the new file on the scaffold.
+
+* themes
+
+Theme folder. Hexo generates a static website by combining the site contents with the theme.
