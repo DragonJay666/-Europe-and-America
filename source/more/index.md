@@ -29,7 +29,7 @@
         }
     </style>
 <div class="scare">
-        <video id="video" class="video" id="bgvid" src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"
+        <video id="video" class="video" id="bgvid" src="https://pan.furrysp.top/d/Onedrive/Never%20gonna%20give%20you%20up.mp4"
             loop="loop" autoplay="autoplay"></video>
         <img src="https://count.getloli.com/get/@rickroll" style="display: none;">
     </div>
