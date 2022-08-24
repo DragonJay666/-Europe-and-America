@@ -186,6 +186,7 @@ jsonContent:
 
 import:
   head_begin:
+    - <script async defer data-website-id="9cfe5626-84e8-4392-9eb3-ab11efdc16d8" src="https://umami-iota-swart.vercel.app/umami.js"></script>
     - <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
   body_end:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"/>

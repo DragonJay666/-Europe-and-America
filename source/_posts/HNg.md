@@ -87,6 +87,10 @@ tags:
   <img src="https://onedrive-vercel-index-beta-pearl.vercel.app/api/raw/?path=/wiki/Lothar_von_Trotha.webp" width="400px" />
 </a>
 
+<a data-fancybox data-src="https://onedrive-vercel-index-beta-pearl.vercel.app/api/raw/?path=/wiki/Hendrik_Witbooi-x4.webp" data-caption="纳马人队长亨德里克-维托伊">
+  <img src="https://onedrive-vercel-index-beta-pearl.vercel.app/api/raw/?path=/wiki/Hendrik_Witbooi.webp" width="400px" />
+</a>
+
 ### <i class="fa-duotone fa-grapes"></i> 紧张局势加剧
 
 1903年，一些纳马部族在亨德里克·维特博伊的领导下起义。一些因素导致赫雷罗人于1904年1月加入他们。
