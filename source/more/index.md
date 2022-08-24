@@ -19,6 +19,14 @@
         background: url(polina.jpg) no-repeat;
         background-size: cover; 
         }
+        @media screen and (max-device-width: 800px) {
+        html {
+             background: url(moon.jpg) #000 no-repeat center center fixed;
+        }
+        #bgvid {
+            display: none;
+        }
+        }
     </style>
 <div class="scare">
         <video id="video" class="video" id="bgvid" src="https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4"
