@@ -2,6 +2,7 @@
 title: 赫雷罗人和纳马夸人的种族灭绝行为
 categories: [欧洲, 德国]
 icons: 
+lang: zh-CN
 tags:
   - 德国
   - 欧洲
