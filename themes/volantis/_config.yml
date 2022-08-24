@@ -140,8 +140,8 @@ cover:
       url: /about/
     - name: 更多
       icon: #
-      img: https://www.emojiall.com/en/header-svg/%F0%9F%8C%A5.svg
-      url: /more/       
+      img: https://www.emojiall.com/en/header-svg/%F0%9F%8D%A2.svg
+      url: /rickroll/       
 ############################### Cover ############################### > end
 
 pages:
